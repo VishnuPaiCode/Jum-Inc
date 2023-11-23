@@ -6,6 +6,6 @@ public class OnClick : MonoBehaviour
 {
     public void Onclick()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 }
